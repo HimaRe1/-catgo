@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/home/HomePage.unity
+    guid: 06092c9caf8c4854f9697950bb8c5f65
+  - enabled: 1
+    path: Assets/Scenes/home/MainMenu.unity
+    guid: 53fe6684d2b0dae4a81a65db494ae793
+  - enabled: 1
+    path: Assets/Scenes/Level0/Level0livingroom.unity
+    guid: 0419c698970162e4e995f26e0ce00bf1
+  - enabled: 1
+    path: Assets/Scenes/Level0/Level0bedroom.unity
+    guid: 8ea0048fd44537c47ae190ff238d361b
+  - enabled: 0
+    path: 
+    guid: 4ed0b7d3110da094cbba565af94c6c4f
+  - enabled: 1
+    path: Assets/Scenes/Level1/Level1livingroom.unity
+    guid: 70ef2b5a622ced347ada2605006d71a7
+  - enabled: 1
+    path: Assets/Scenes/Level1/Level1kitchen.unity
+    guid: e9c1b1eddb1d1e344826ba313c4d6e30
+  - enabled: 1
+    path: Assets/Scenes/Level1/Level1kitchen1.unity
+    guid: 0fdaa96bbe5427a4ca963d540fc1dd72
+  - enabled: 1
+    path: Assets/Scenes/Level2/Level2livingroom.unity
+    guid: a9e413acb4ae44343908a3b5d7c0f7cd
+  - enabled: 1
+    path: Assets/Scenes/Level3/Level3livingroom.unity
+    guid: 320b7276ef9474c46b54d9e4caa61040
+  - enabled: 1
+    path: Assets/Scenes/Level4/Level4livingroom.unity
+    guid: 7a71e1813502ea540bd695a249728e19
+  - enabled: 1
+    path: Assets/Scenes/Level5/Level5livingroom.unity
+    guid: 7144f42a12f5f1844b90544d8b955e98
+  - enabled: 1
+    path: Assets/Scenes/Level6/Level6livingroom.unity
+    guid: 80e2e76b60cb2584b8d4a443851693a9
+  - enabled: 1
+    path: Assets/Scenes/Level7/Level7livingroom.unity
+    guid: 92456e490e2768c42ba5018e517583af
+  m_configObjects: {}
